@@ -66,8 +66,8 @@ Ensure your contributions align with the project's guidelines and coding standar
 ## Project Structure
 
 - `/datasets/`: Directory containing raw and processed datasets.
-- `/workflows/`: Alteryx workflow files.
-- `/tasks/`: Email request for insights into a marketing campaign.
+- `/tasks/`: Alteryx workflow files.
+- `/workflows/`: Email request for insights into a marketing campaign.
 
 
 ```
