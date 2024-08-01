@@ -67,7 +67,7 @@ Ensure your contributions align with the project's guidelines and coding standar
 
 - `/datasets/`: Directory containing raw and processed datasets.
 - `/workflows/`: Alteryx workflow files.
-- `/docs/`: Documentation and reference files.
+- `/tasks/`: Email request for insights into a marketing campaign.
 
 
 ```
